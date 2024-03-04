@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    background-color: #f5f6fe;
+}
+
+.main-container {
+    display: flex;
+}
+
+.main-container .sidebar {
+    display: flex;
+    height: auto;
+    background-color: #ffffff;
+    row-gap: 35px;
+    width: 17vw;
+}
+
+.main-container .sidebar .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.main-container .sidebar .logo .logo-text {
+    font-family: "Poppins", sans-serif;
+    font-size: 40.67px;
+    font-weight: 600;
+    color: #00160a;
+}
+
+.main-container .sidebar {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container .sidebar .navigation {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    row-gap: 40px;
+}
+
+.main-container .sidebar .navigation .item-1,
+.main-container .sidebar .navigation .item-2,
+.main-container .sidebar .navigation .item-3,
+.main-container .sidebar .navigation .item-4,
+.main-container .sidebar .navigation .item-5,
+.main-container .sidebar .navigation .item-6 {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.main-container .sidebar .navigation .item-2 .link,
+.main-container .sidebar .navigation .item-3 .link,
+.main-container .sidebar .navigation .item-4 .link,
+.main-container .sidebar .navigation .item-5 .link,
+.main-container .sidebar .navigation .item-6 .link {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.main-container .sidebar .navigation .item-2 .link .text,
+.main-container .sidebar .navigation .item-3 .link .text,
+.main-container .sidebar .navigation .item-4 .link .text,
+.main-container .sidebar .navigation .item-5 .link .text,
+.main-container .sidebar .navigation .item-6 .link .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 18.76px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .sidebar .navigation .item-1 .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 18.76px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .sidebar .navigation .item-1 .text,
+.main-container .sidebar .navigation .item-2 .text,
+.main-container .sidebar .navigation .item-3 .text,
+.main-container .sidebar .navigation .item-4 .text,
+.main-container .sidebar .navigation .item-5 .text,
+.main-container .sidebar .navigation .item-6 .text {
+    color: #000000;
+}

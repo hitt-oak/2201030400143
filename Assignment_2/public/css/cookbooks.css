@@ -1,0 +1,115 @@
+.main-container .sidebar .navigation .item-4 .link {
+    border: 1px solid #000000;
+    border-radius: 18px;
+    padding: 8px 49px 8px 0px;
+    box-sizing: content-box;
+}
+
+.main-container .sidebar .navigation .item-2 .link .img,
+.main-container .sidebar .navigation .item-3 .link .img,
+.main-container .sidebar .navigation .item-4 .link .img,
+.main-container .sidebar .navigation .item-5 .link .img,
+.main-container .sidebar .navigation .item-6 .link .img {
+    margin-left: 10px;
+}
+
+.main-container .sidebar .navigation .item-4 {
+    margin-bottom: -10px;
+    margin-top: -11px;
+}
+
+.main-container .header-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.main-container .header-container .contentbox1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 59vw;
+    margin-top: 3vh;
+}
+
+.main-container .header-container .contentbox1 .box1 {
+    display: flex;
+}
+
+.main-container .header-container .contentbox1 .box1 .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 24.22px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox1 .box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    border-radius: 13.55px;
+    width: 232.11px;
+    height: 36.14px;
+}
+
+.main-container .header-container .contentbox1 .box2 .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 21.21px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.main-container .header-container .contentbox2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 86vh;
+    row-gap: 0.9vw;
+}
+
+.main-container .header-container .contentbox2 .box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1.12px dotted #000000;
+    height: 72.14px;
+    width: 72.14px;
+    border-radius: 11.2px;
+}
+
+.main-container .header-container .contentbox2 .box2 .text {
+    font-size: 23.7px;
+    font-weight: normal;
+    font-family: "Poppins", sans-serif;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox2 .box3 {
+    width: 449px;
+}
+
+.main-container .header-container .contentbox2 .box3 .text {
+    font-size: 17.28px;
+    font-weight: normal;
+    font-family: "Poppins", sans-serif;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox2 .box4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    border-radius: 20.15px;
+    height: 47.4px;
+    width: 173.4px;
+}
+
+.main-container .header-container .contentbox2 .box4 .text {
+    font-size: 17.28px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+}

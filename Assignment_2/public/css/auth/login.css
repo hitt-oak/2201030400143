@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-image: url("../../images/authbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.frame-parent {
+    margin: 120px 157px 30px 0px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f6fe;
+    justify-content: center;
+    align-items: center;
+    width: 538px;
+    height: 466.85px;
+    border-radius: 42.48px;
+}
+
+.get-started-with {
+    font-family: "Manrope", sans-serif;
+    font-weight: bold;
+    font-size: 42.28px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.email,
+.password {
+    font-family: "Manrope", sans-serif;
+    font-style: normal;
+    font-size: 24.97px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.input-wrapper .input1,
+.input-container .input2 {
+    width: 467.37px;
+    height: 50.97px;
+    border-radius: 21.97px;
+    font-size: 20.97px;
+    padding-left: 12px;
+}
+
+.login-wrapper {
+    width: 209.72px;
+    height: 72.9px;
+    border-radius: 17.98px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00160a;
+}
+
+.login2 {
+    font-family: "Manrope", sans-serif;
+    font-weight: bold;
+    font-size: 29.96px;
+    line-height: 150%;
+    color: #ffffff;
+}
+
+.forgot,
+.register {
+    font-family: "Manrope", sans-serif;
+    font-size: 21.01px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.register a {
+    color: #1031e3;
+}
+.email-parent,
+.password-parent,
+.login-wrapper {
+    margin-bottom: 14px;
+}
+
+.get-started-button {
+    margin-bottom: 21px;
+}
+
+.forgot-password-button .forgot .link {
+    color: #000000;
+}

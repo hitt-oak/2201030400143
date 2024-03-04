@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../../images/authbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.frame-parent {
+    margin: 50px 157px 30px 0px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f6fe;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 538px;
+    height: 603.85px;
+    border-radius: 42.48px;
+}
+
+.get-started-with {
+    font-family: "Manrope", sans-serif;
+    font-weight: bold;
+    font-size: 38.28px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.register1 {
+    font-family: "Manrope", sans-serif;
+    font-style: normal;
+    font-size: 38.28px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.username,
+.email,
+.password {
+    font-family: "Manrope", sans-serif;
+    font-style: normal;
+    font-size: 24.97px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.email-frame .input,
+.input-wrapper .input1,
+.input-container .input2 {
+    width: 467.37px;
+    height: 50.97px;
+    border-radius: 21.97px;
+    font-size: 20.97px;
+    padding-left: 12px;
+}
+
+.register-wrapper {
+    width: 209.72px;
+    height: 72.9px;
+    border-radius: 17.98px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00160a;
+}
+
+.register2 {
+    font-family: "Manrope", sans-serif;
+    font-weight: bold;
+    font-size: 29.96px;
+    line-height: 150%;
+    color: #ffffff;
+}

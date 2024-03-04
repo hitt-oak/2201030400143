@@ -1,0 +1,171 @@
+.main-container .sidebar .navigation .item-5 .link {
+    border: 1px solid #000000;
+    border-radius: 18px;
+    padding: 8px 64px 8px 0px;
+    box-sizing: content-box;
+}
+
+.main-container .sidebar .navigation .item-2 .link .img,
+.main-container .sidebar .navigation .item-3 .link .img,
+.main-container .sidebar .navigation .item-4 .link .img,
+.main-container .sidebar .navigation .item-5 .link .img,
+.main-container .sidebar .navigation .item-6 .link .img {
+    margin-left: 10px;
+}
+
+.main-container .sidebar .navigation .item-5 {
+    margin-bottom: -10px;
+}
+
+.main-container .header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.main-container .header-container .contentbox1 {
+    display: flex;
+    height: 32.8px;
+    column-gap: 5.7px;
+    margin-top: 22px;
+    justify-content: center;
+}
+
+.main-container .header-container .contentbox1 .box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 233.18px;
+    height: 31.78px;
+    border: 0.59px solid #000000;
+    border-radius: 10.6px;
+    column-gap: 5.89px;
+}
+
+.main-container .header-container .contentbox1 .box1 .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 13.65px;
+    font-weight: normal;
+    color: #414141;
+}
+
+.main-container .header-container .contentbox1 .box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 273.11px;
+    height: 32.8px;
+    border: 1.03px dotted #000000;
+    border-radius: 18.59px;
+}
+
+.main-container .header-container .contentbox1 .box2 .text {
+    font-size: 19.78px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 512px;
+    background-color: #d9d9d9;
+    margin-top: 36.2px;
+    flex-direction: column;
+    border-radius: 16px;
+}
+
+.main-container .header-container .contentbox2 .box1 .img {
+    border-radius: 16px;
+}
+
+.main-container .header-container .contentbox2 .box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 263.79px;
+    margin-top: 9px;
+}
+
+.main-container .header-container .contentbox2 .box2 .subbox1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 14.54px;
+}
+
+.main-container .header-container .contentbox2 .box2 .subbox2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 13.03px;
+}
+
+.main-container .header-container .contentbox2 .box2 .subbox2 .text {
+    font-family: "Poppins", sans-serif;
+    font-size: 23.41px;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox2 .box3 {
+    margin-top: 4px;
+    margin-left: 14.5px;
+}
+
+.main-container .header-container .contentbox2 .box3 .text {
+    font-size: 23.18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    color: #000000;
+}
+
+.main-container .header-container .contentbox2 .box3 .text1 {
+    font-size: 14.18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    color: #000000;
+    padding-top: 4px;
+}
+
+.main-container .header-container .contentbox2 .box3 .text2 {
+    font-size: 14.18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    color: #000000;
+    padding-top: 7px;
+    padding-bottom: 12.8px;
+}
+
+.main-container .header-container .contentbox3 {
+    height: 83px;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 52px;
+    margin-top: 12.2px;
+    margin-bottom: 28px;
+}
+
+.main-container .header-container .contentbox3 .box1,
+.main-container .header-container .contentbox3 .box2,
+.main-container .header-container .contentbox3 .box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    border: 3px solid #000000;
+}
+
+.main-container .header-container .contentbox3 .box2 .text {
+    font-size: 42.27px;
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    color: #000000;
+}
